@@ -28,5 +28,5 @@ var kittens = [
 ]
 
 function destructivelyRemoveLastKitten() {
-  
+
 }
