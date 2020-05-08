@@ -5,8 +5,8 @@ var kittens = [
 ] //define your array here
 
 // Add your functions and code here
-function destructivelyAppendKitten() {
-  kittens.push()
+function destructivelyAppendKitten(a) {
+  kittens.push(a)
   return kittens;
 }
 
@@ -16,8 +16,8 @@ var kittens = [
   "Garfield"
 ]
 
-function destructivelyPrependKitten() {
-  kittens.upshift()
+function destructivelyPrependKitten(a) {
+  kittens.upshift(a)
   return kittens;
 }
 
@@ -27,4 +27,6 @@ var kittens = [
   "Garfield"
 ]
 
-destructivelyRemoveLastKitten =
+function destructivelyRemoveLastKitten() {
+  
+}
