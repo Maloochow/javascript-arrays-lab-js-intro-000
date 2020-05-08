@@ -5,4 +5,18 @@ var kittens = [
 ] //define your array here
 
 // Add your functions and code here
-destructivelyAppendKitten = kittens.appendKitten()
+destructivelyAppendKitten = kittens.push()
+
+var kittens = [
+  "Milo",
+  "Otis",
+  "Garfield"
+]
+
+destructivelyPrependKitten = kittens.upshift()
+
+var kittens = [
+  "Milo",
+  "Otis",
+  "Garfield"
+]
