@@ -26,4 +26,4 @@ var kittens = [
   "Otis",
   "Garfield"
 ]
-destructivelyRemoveLastKitten = 
+destructivelyRemoveLastKitten =
