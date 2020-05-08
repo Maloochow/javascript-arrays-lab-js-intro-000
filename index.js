@@ -17,7 +17,7 @@ var kittens = [
 ]
 
 function destructivelyPrependKitten(a) {
-  kittens.upshift(a)
+  kittens.unshift(a)
   return kittens;
 }
 
