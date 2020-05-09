@@ -57,4 +57,3 @@ function appendKitten(a) {
 function prependKitten(a) {
   return [a, ...kittens];
 }
-
