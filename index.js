@@ -53,6 +53,12 @@ function appendKitten(a) {
   return kittens.concat(a)
 }
 
+var kittens = [
+  "Milo",
+  "Otis",
+  "Garfield"
+]
+
 function prependKitten(a) {
   return [a, ...kittens];
 }
