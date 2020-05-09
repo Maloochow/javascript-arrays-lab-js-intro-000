@@ -52,4 +52,3 @@ var kittens = [
 function appendKitten(a) {
   return kittens.concat(a)
 }
-
